@@ -1,0 +1,25 @@
+Harry Potter,Jk Rowling,28,$2
+Start With Why,Simon Sinek,19,$1.5
+Programming With Python,John Smith,25,$1.5
+Rage,Bob Woodward,30,$3
+If You Tell,Gregg Olson,20,$1.5
+Think Like a Monk,Jay Shetty,15,$2
+Dune,Frank Herbert,20,$1
+Disloyal,Michael Cohen,10,$3
+Battle Ground,Jim Butcher,14,$2.5
+The Return,Nicholas Sparks,17,$2
+Midnight Sun,Stephenie Meyer,23,$3
+Hatchet,Gary Paulsen,24,$2.3
+The Guest List,Lucy Foley,16,$2
+Milkman,Anna Burns,29,$4
+Roommaid, Sariah Wilson,27,$2
+The Hate You Give,Angie Thomas,24,$3.5
+Untamed,Glennon Doyle,26,$2.8
+Ada Twist,Andrea Beaty,32,$2.3
+Thr Order,Daniel Silva,34,$4
+The Dutch House,Ann Patchett,40,$3
+Heart Bones, Colleen Hoover,20,$3
+American Dirt,Jeanine Cummins,18,$3
+The Silent Patient,Alex Michaelides,29,$2
+Becoming,Michelle Obama,40,$4
+Echo,Pam Munoz Ryan,19,$3.5
